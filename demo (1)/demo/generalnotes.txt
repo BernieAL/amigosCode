@@ -1,0 +1,7 @@
+API layer - controller class
+Service layer - responsible for biz logic for students
+Data access layer
+
+
+API layer talks to service layer
+then service layer talks to data layer
